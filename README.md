@@ -1,0 +1,1 @@
+I wrote my first BASIC program in 1981 and have been paid to program since 1996. 
